@@ -1,0 +1,196 @@
+Here is the ammo list sorted by power, organized into three categories based on their effectiveness against Power Armor (Armor Penetration and Kinetic Energy).
+
+High Effectiveness
+Anti-materiel rounds and high explosives capable of puncturing T-60 or X-01 plating.
+
+Munitions - Advanced Calibers.esp|025,MAC_Ammo_132mmAT,13.2x92mm Mauser Anti-Tank
+
+Munitions - Advanced Calibers.esp|028,MAC_Ammo_700NE,.700 Nitro Express
+
+Munitions - Vanilla Ammo Addon.esl|BA3,AmmoMissile,Missile
+
+Munitions - An Ammo Expansion.esl|FC8,Munitions_AmmoRocket,Rocket
+
+Munitions - Advanced Calibers.esp|031,MAC_Ammo_127x108mm,12.7x108mm Anti-Materiel
+
+Munitions - Vanilla Ammo Addon.esl|279,Ammo50Caliber,.50 Round
+
+Munitions - Advanced Calibers.esp|0CE,MAC_Ammo_416barrett,.416 Barrett
+
+Munitions - Advanced Calibers.esp|019,MAC_Ammo_408cheytac,.408 Cheyenne Tactical
+
+Munitions - An Ammo Expansion.esl|6E4,Munitions_Ammo20mm,20mm Round
+
+Munitions - An Ammo Expansion.esl|FC7,Munitions_Ammo40mmGrenade,40mm Grenade Round
+
+Munitions - Advanced Calibers.esp|0AE,MAC_Ammo_338lapua,.338 Lapua Magnum
+
+Munitions - Advanced Calibers.esp|010,MAC_Ammo_338norma,.338 Norma Magnum
+
+Munitions - Advanced Calibers.esp|02B,MAC_Ammo_300WinMag,.300 Winchester Magnum
+
+Munitions - An Ammo Expansion.esl|0BB,Munitions_Ammo300Magnum,300 Magnum Round
+
+Munitions - Advanced Calibers.esp|00D,MAC_Ammo_300norma,.300 Norma Magnum
+
+Munitions - Advanced Calibers.esp|00C,MAC_Ammo_300PRC,.300 Precision Rifle Cartridge
+
+Munitions - An Ammo Expansion.esl|7F3,Munitions_Ammo500Express,.500 Express Round
+
+Munitions - An Ammo Expansion.esl|FC6,Munitions_Ammo25mmGrenade,25mm Grenade Round
+
+Munitions - An Ammo Expansion.esl|005,Munitions_Ammo4GaugeShell,4 Gauge Shell
+
+Munitions - Vanilla Ammo Addon.esl|8B1,DLC03_Ammo4570,.45-70 Round
+
+Medium Effectiveness
+Battle rifle and heavy energy rounds. Effective against Power Armor over time or via weak points.
+
+Munitions - An Ammo Expansion.esl|6E2,Munitions_Ammo3006Caliber,.30-06 Round
+
+Munitions - An Ammo Expansion.esl|6E3,Munitions_Ammo792mm,8mm Round
+
+Munitions - Advanced Calibers.esp|013,MAC_Ammo_762x51mmNATO,7.62x51mm NATO
+
+Munitions - Vanilla Ammo Addon.esl|66B,Ammo308Caliber,.308 Round
+
+Munitions - An Ammo Expansion.esl|029,Munitions_Ammo762x54R,7.62mm Rimmed Round
+
+Munitions-Additional Ammo.esp|802,MAA_Ammo762Rimmed,7.62mm Rimmed Round
+
+Munitions - An Ammo Expansion.esl|6D7,Munitions_Ammo303Caliber,.303 Round
+
+Munitions - Advanced Calibers.esp|0C4,MAC_Ammo_50BW,.50 Beowulf
+
+Munitions - Advanced Calibers.esp|016,MAC_Ammo_458SOCOM,.458 SOCOM
+
+Munitions - Vanilla Ammo Addon.esl|897,DLC04_Ammo_HandmadeRound,7.62mm Round
+
+Munitions - An Ammo Expansion.esl|030,Munitions_Ammo9x39mm,9x39mm Round
+
+Munitions - An Ammo Expansion.esl|001,Munitions_Ammo8GaugeShell,8 Gauge Shell
+
+Munitions - Vanilla Ammo Addon.esl|673,AmmoShotgunShell,12 Gauge Shell
+
+Munitions - Advanced Calibers.esp|006,MAC_Ammo_65creedmoor,6.5 Creedmoor
+
+Munitions - An Ammo Expansion.esl|7A1,Munitions_Ammo65mm,6.5mm Round
+
+Munitions-Additional Ammo.esp|817,MAA_Ammo65italianCaliber,6.5mm Italian Round
+
+Munitions - An Ammo Expansion.esl|022,Munitions_Ammo3030Caliber,.30-30 Round
+
+Munitions-Additional Ammo.esp|815,MAA_Ammo3030Caliber,.30-30 Round
+
+Munitions - An Ammo Expansion.esl|7EF,Munitions_Ammo14mm,14mm Round
+
+Munitions - Vanilla Ammo Addon.esl|278,Ammo556,5.56mm Round
+
+Munitions - An Ammo Expansion.esl|FAA,Munitions_Ammo223Caliber,.223 Round
+
+Munitions - Advanced Calibers.esp|001,MAC_Ammo_68mm,6.8x43mm SPC
+
+Munitions - An Ammo Expansion.esl|7A2,Munitions_Ammo545mm,5.45mm Round
+
+Munitions - Advanced Calibers.esp|022,MAC_Ammo_58mm,5.8x42mm DBP87
+
+Munitions - Advanced Calibers.esp|002,MAC_Ammo_300BLK,.300 AAC Blackout
+
+Munitions - An Ammo Expansion.esl|6D8,Munitions_Ammo280Caliber,.280 Round
+
+Munitions - Vanilla Ammo Addon.esl|BB7,AmmoPlasmaCartridge,Plasma Cartridge
+
+Munitions - An Ammo Expansion.esl|6DD,Munitions_AmmoPlasmaCore,Plasma Core
+
+Munitions - Vanilla Ammo Addon.esl|897,AmmoFusionCell,Microfusion Cell
+
+Munitions - An Ammo Expansion.esl|FD3,Munitions_AmmoSmallEnergyCell,Energy Cell
+
+Munitions - Vanilla Ammo Addon.esl|FE4,AmmoFusionCore,Fusion Core
+
+Low Effectiveness
+Pistol calibers and utility rounds. Largely deflected by Power Armor plating.
+
+Munitions - Vanilla Ammo Addon.esl|21C,Ammo44,.44 Round
+
+Munitions - An Ammo Expansion.esl|FCA,Munitions_Ammo4440Caliber,.44-40 Round
+
+Munitions - An Ammo Expansion.esl|FB2,Munitions_Ammo357Caliber,.357 Round
+
+Munitions - An Ammo Expansion.esl|FAE,Munitions_Ammo127mm,12.7mm Round
+
+Munitions - Vanilla Ammo Addon.esl|66A,Ammo45Caliber,.45 Round
+
+Munitions-Additional Ammo.esp|816,MAA_Ammo45longCaliber,.45 Long Round
+
+Munitions - An Ammo Expansion.esl|716,Munitions_Ammo455Caliber,.455 Round
+
+Munitions - Vanilla Ammo Addon.esl|276,Ammo10mm,10mm Round
+
+Munitions - An Ammo Expansion.esl|6EE,Munitions_Ammo40Caliber,.40 Round
+
+Munitions - An Ammo Expansion.esl|FAF,Munitions_Ammo9mm,9mm Round
+
+Munitions-Additional Ammo.esp|800,MAA_Ammo9mmSoviet,9mm Soviet Round
+
+Munitions-Additional Ammo.esp|801,MAA_Ammo9mmSubsonic,9mm Subsonic Round
+
+Munitions - An Ammo Expansion.esl|6CA,Munitions_Ammo762mmTokarev,7.62mm Tokarev Round
+
+Munitions - An Ammo Expansion.esl|6D6,Munitions_Ammo30Caliber,.30 Carbine
+
+Munitions - Advanced Calibers.esp|02E,MAC_Ammo_46mm,4.6x30mm
+
+Munitions - An Ammo Expansion.esl|717,Munitions_Ammo57mm,5.7mm Round
+
+Munitions - Vanilla Ammo Addon.esl|5AA,AmmoAlienBlaster,Alien Blaster Round
+
+Munitions - Vanilla Ammo Addon.esl|279,AmmoGammaCell,Gamma Round
+
+Munitions - An Ammo Expansion.esl|FAC,Munitions_Ammo20GaugeShell,20 Gauge Shell
+
+Munitions - An Ammo Expansion.esl|796,Munitions_Ammo410GaugeShell,.410 Gauge Shell
+
+Munitions - An Ammo Expansion.esl|061,Munitions_AmmoGyrojetRound,Gyrojet Round
+
+Munitions - An Ammo Expansion.esl|6CB,Munitions_Ammo47mmCaseless,4.7mm Caseless Round
+
+Munitions - An Ammo Expansion.esl|6CC,Munitions_Ammo50CaliberBall,.50 Caliber Ball
+
+Munitions - Vanilla Ammo Addon.esl|E87,Ammo38Caliber,.38 Round
+
+Munitions - An Ammo Expansion.esl|FB0,Munitions_Ammo32Caliber,.32 Round
+
+Munitions - An Ammo Expansion.esl|812,Munitions_Ammo25Caliber,.25 Round
+
+Munitions - An Ammo Expansion.esl|FB1,Munitions_Ammo22Caliber,.22 Round
+
+Munitions - An Ammo Expansion.esl|7F4,Munitions_AmmoBolt,Crossbow Bolt
+
+Munitions - An Ammo Expansion.esl|7F0,Munitions_AmmoArrow,Arrow
+
+Munitions - An Ammo Expansion.esl|01C,Munitions_AmmoNeedlerCartridge,Needler Cartridge
+
+Munitions - Vanilla Ammo Addon.esl|C78,AmmoFlamerFuel,Fuel
+
+Munitions - An Ammo Expansion.esl|06D,Munitions_AmmoPyroCell,Pyro Cell
+
+Munitions - An Ammo Expansion.esl|058,Munitions_AmmoFissionBattery,Fission Battery
+
+Munitions - An Ammo Expansion.esl|FA8,Munitions_AmmoElectronChargePack,Electron Charge Pack
+
+Munitions - An Ammo Expansion.esl|075,Munitions_AmmoPlasmaFuse,Plasma Fuse
+
+Munitions - Vanilla Ammo Addon.esl|06B,AmmoSyringer,Syringer Ammo
+
+Munitions - Vanilla Ammo Addon.esl|076,DLC04_Ammo_AcidSoaker,Acid Concentrate
+
+Munitions - An Ammo Expansion.esl|6C9,Munitions_AmmoNail,Nail
+
+Munitions - An Ammo Expansion.esl|7EE,Munitions_AmmoDart,Dart
+
+Munitions - Vanilla Ammo Addon.esl|5AE,AmmoFlareGun,Flare
+
+Munitions - An Ammo Expansion.esl|6C8,Munitions_AmmoBBPellet,BB Pellet
+
+Munitions - Vanilla Ammo Addon.esl|6C2,DLC04_Ammo_PaddleBall,Paddle Ball String
